@@ -1,6 +1,8 @@
-# Astronomical Image Autoencoder
+![test_image_0_latent_analysis](https://github.com/user-attachments/assets/719367c5-4030-42f2-862a-7e30df087f6a)# Astronomical Image Autoencoder
 
 This repository contains a deep learning model for compressing and reconstructing astronomical images using a convolutional autoencoder with U-Net architecture.
+![test_image_16_latent_analysis](https://github.com/user-attachments/assets/6844b9b1-a498-4ad8-ab21-10dae77b0899)
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -103,11 +105,16 @@ The trained model achieves excellent reconstruction quality:
 ### Metrics Visualization
 ![{DD1792FD-FAB9-4AB3-905F-9078ABFB8C1F}](https://github.com/user-attachments/assets/c97dfe4e-c7c6-4fdd-8077-ea71efc4421c)
 
-## Latent Space Exploration
+## Latent space exploration
 The 8-dimensional latent space captures key features of astronomical images:
 
-### Latent Space Visualization
+### Latent space visualization
 ![{D48814B5-753D-4F20-953F-2E5E528EC8BE}](https://github.com/user-attachments/assets/3736283f-c099-40dc-a276-a868b4ff71fe)
+
+### Sample latent space analysis
+![test_image_0_latent_analysis](https://github.com/user-attachments/assets/ca70d8ea-748f-4a56-9e53-74b3db769905)
+![test_image_0_latent_analysis](https://github.com/user-attachments/assets/9ce4c59e-5477-4332-8f52-28d6cae5ba96)
+
 
 
 
