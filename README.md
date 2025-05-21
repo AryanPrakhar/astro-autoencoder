@@ -1,4 +1,4 @@
-![test_image_0_latent_analysis](https://github.com/user-attachments/assets/719367c5-4030-42f2-862a-7e30df087f6a)# Astronomical Image Autoencoder
+# Astronomical Image Autoencoder
 
 This repository contains a deep learning model for compressing and reconstructing astronomical images using a convolutional autoencoder with U-Net architecture.
 ![test_image_16_latent_analysis](https://github.com/user-attachments/assets/6844b9b1-a498-4ad8-ab21-10dae77b0899)
