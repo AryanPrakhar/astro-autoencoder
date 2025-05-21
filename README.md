@@ -19,4 +19,5 @@ This repository contains a deep learning model for compressing and reconstructin
 This project implements a neural network autoencoder specifically designed for astronomical image data. The autoencoder compresses FITS (Flexible Image Transport System) astronomical images into a compact 8-dimensional latent space representation and then reconstructs them with high fidelity.
 
 ### Project Overview Diagram!
-[project_overview_flowchart](images_docs/project_overview_flowchart.png)
+![project_overview_flowchart](https://github.com/user-attachments/assets/c515de53-a1e8-47ae-82f3-f8fb36d0cb14)
+
